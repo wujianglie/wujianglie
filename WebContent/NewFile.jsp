@@ -1,12 +1,15 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
+<!DOCTYPE html >
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Insert title here</title>
 </head>
 <body>
-
+		<h1>作业</h1>
+		<h2>修改后的东东</h2>
+		<h1>猪儿虫</h1>
+		<p>哈哈哈</p>
+		
 </body>
-</html>
